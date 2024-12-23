@@ -61,9 +61,9 @@ https://b2n.ir/vehicleDataset
 ```
 ## Team Members
 ```
-1. Jay Rajodiya - Coder
-2. Parthvi Rathod - Presenter
-3. Keval Ravani - Coder
-4. Sneha Ramudu - Data Collection
-5. Yashasvi Jain - Data Analysis
+1. Jay Rajodiya - Programming Analyst
+2. Parthvi Rathod - Research & Development lead
+3. Keval Ravani - Team & Programming Lead
+4. Sneha Ramudu - Research & Documentation Analyst
+5. Yashasvi Jain - Supporting  Research Analyst
 ```
