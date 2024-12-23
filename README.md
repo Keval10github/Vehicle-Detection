@@ -59,3 +59,9 @@ this weight is the result of 128 epoch train on the following dataset.
 ```
 https://b2n.ir/vehicleDataset
 ```
+Team Members
+1. Keval Ravani
+2. Parthvi Rathod
+3. Jay Rajodiya
+4. Sneha Ramudu
+5. Yashasvi Jain
