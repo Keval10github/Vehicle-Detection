@@ -10,14 +10,6 @@
   <img src="https://user-images.githubusercontent.com/72157067/156183111-cb0f09bb-cfe1-490f-bccc-335748111107.jpg" width="600" /> 
 </p>
 
-## Installation
-
-```sh
-git clone https://github.com/MaryamBoneh/Vehicle-Detection
-cd Vehicle-Detection
-pip install -r requirements.txt
-```
-
 ## Dataset
 
 take or find vehicle images for create a special dataset for fine-tuning.
@@ -31,7 +23,6 @@ Test : 10%
 
 ## Clone Vehicle-Detection Repository
 ```
-git clone https://github.com/MaryamBoneh/Vehicle-Detection
 cd Vehicle-Detection
 pip install -r requirements.txt
 ```
