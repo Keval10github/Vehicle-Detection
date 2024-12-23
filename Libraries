@@ -1,0 +1,57 @@
+Libraries Used in Code
+1. argparse:
+This library is used for parsing command-line arguments. It allows users to specify options and parameters when running the script.
+
+2. logging:
+This module provides a flexible framework for emitting log messages from Python programs. It is used here to log information about the training process, such as hyperparameters and training progress.
+
+3. math:
+A standard library for mathematical functions. It is used for various mathematical operations, such as calculating sizes and scaling factors.
+
+4. os:
+This module provides a way of using operating system-dependent functionality like reading or writing to the file system. It is used for handling file paths and environment variables.
+
+5. random:
+This library implements pseudo-random number generators for various distributions. It is used for random sampling, such as selecting images for training.
+
+6. sys:
+This module provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter. It is used here to manipulate the Python path.
+
+7. time:
+This module provides various time-related functions. It is used to measure the duration of the training process.
+
+8. copy:
+The deepcopy function from this module is used to create deep copies of objects, ensuring that changes to the copy do not affect the original object.
+
+9. pathlib:
+This module offers classes to handle filesystem paths in an object-oriented way. It is used to manage file paths more conveniently.
+
+10. numpy:
+A fundamental package for scientific computing in Python. It is used for handling arrays and performing numerical operations.
+
+11. torch:
+The main PyTorch library, which is used for building and training neural networks. It provides functionalities for tensor operations, automatic differentiation, and GPU acceleration.
+
+12. yaml:
+A library for parsing YAML (YAML Ain't Markup Language) files. It is used to read configuration files that specify hyperparameters and dataset information.
+
+13. tqdm:
+A library for creating progress bars in Python. It is used to provide visual feedback during the training process.
+
+14. val:
+A custom module (not a standard library) that is likely used for validation purposes, specifically to calculate mean Average Precision (mAP) at the end of each epoch.
+
+15. utils.datasets:
+A custom utility module for creating data loaders for training and validation datasets.
+
+16. utils.general:
+A custom utility module that contains various general-purpose functions used throughout the training process.
+
+17. utils.downloads:
+A custom utility module for handling downloads of model weights or datasets.
+
+18. utils.loss:
+A custom utility module that likely contains the loss computation functions used during training.
+
+19. utils.plots:
+A custom utility module for plotting functions, such as visualizing labels and training evolution.
